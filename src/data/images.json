@@ -1,0 +1,84 @@
+{
+  "hero": {
+    "width": 5760,
+    "height": 3840,
+    "widths": [
+      960,
+      1440,
+      1920,
+      2560
+    ],
+    "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAC26z/KwD/Y8bD5y771AAA/un4AObwm99/EcSMfCKy2qtBHshlE2NeMRhX+a5O43X4qtQ9q+GwFOkwAoEMJPgSxgzsaWtWcIdn1oEeUHUxQIeRWKbePMgA"
+  },
+  "hero-portrait": {
+    "width": 2600,
+    "height": 3840,
+    "widths": [
+      640,
+      960,
+      1280
+    ],
+    "blur": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAACQBgCdASoYACMAPu1ip02ppaMiMBVdUTAdiWgApzSpwIlDk3LPXewa5TiSXRYp45RfmNl+2GLhWg5u2qjAAPGx0/cxJ64OWVEEiQn4nfvm8CDKhS8X8b6X/8y1xOtHxadJdfu76eDALvl/4IwHgDnKuw/6krCdIGzbZHcgKrv6rMCRGxDEVp5NuEnoXYYFlAUgw71ncLafY1a5gljy9pbEWUEl/1GbxHBs+MlW7S+bzG5gJ7tGU1J3sdeY5eKGuubQo0pSZcbqIAAA"
+  },
+  "detail-ramekins": {
+    "width": 2112,
+    "height": 1488,
+    "widths": [
+      640,
+      1024,
+      1600
+    ],
+    "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACwBACdASoYABEAPu1cqE2ppKOiN/VYATAdiWIArDNkAYdsp7rgaPOCI9AJqUcAAP7r560XizmzLHFkYN6YMuqqADwASN+Tvw/1i3Qp9juWQORpK1jrAcGT6VRRhGsbMjZ6r5mkeUWgPHBTtvyjLfoP540Nx0AA"
+  },
+  "detail-fries": {
+    "width": 2400,
+    "height": 1680,
+    "widths": [
+      640,
+      1024,
+      1600
+    ],
+    "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADQBACdASoYABEAPuVepk2pJSOiMAwBIByJZgCdMoR00CAPBPDPCeyRRDQbdu5vAAD+43fc8/52vYrxED2lh9Xk4P1xvJbvyKywXSShqvxhmHr9FdChVG7dUcYnB+SVsZpE1gVPULtnFyHQmewXr6RbvURTAOCIoSk+MBde2qBw0h/gAAA="
+  },
+  "detail-pimento": {
+    "width": 1680,
+    "height": 1392,
+    "widths": [
+      640,
+      1024,
+      1600
+    ],
+    "blur": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABQBQCdASoYABQAPu1qrlCppaQiqAqpMB2JagCdMzQ+ABTkTvnndx7RCJtlFgGjCSW02xAA/ujnO1CjCVTdFqogsOzFcDv0rgsMgH8s3aGvbnYqTaa8je5dizE/aEGKKyBGD9vboyLeixreFX6WWpNN9hg2V8BLoe+dl9UxeTmgkyD5/cQPsPkAAAA="
+  },
+  "chain-burger": {
+    "width": 980,
+    "height": 500,
+    "widths": [
+      480,
+      980
+    ],
+    "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBACdASoYAAwAPu1mqk2ppaQiMAgBMB2JbACdMoACSujpwfuiYRtqAAD+8zQUuxxJdwyV+2ODsv7SySqkJPOR8Ti8putv4iR+ZQkSdJB73xSU6g69FHtY3QAN1dYLZxASIgMAAAA="
+  },
+  "southern-burger": {
+    "width": 640,
+    "height": 640,
+    "widths": [
+      480,
+      640
+    ],
+    "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAABQBQCdASoYABgAPu1kqU2ppaQiMBgMATAdiWIAsR8bLHQjN9BoKJKAGdDB4AhzbIzEjAAA/dkFhEFjuJtLdZce5jnepcAI22w9RohR5S72VEpvqwLMWCmOTTjDqZg1yXWi9qv1ADisPCrz67ZXS1Zzl/YDGWIqEDNykd37HsAAAAAA"
+  },
+  "owners": {
+    "width": 533,
+    "height": 800,
+    "widths": [
+      400,
+      533
+    ],
+    "blur": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACQBgCdASoYACQAPu1mqU8ppaOiMBVaqTAdiUAXYAEGnL9lDxkXlo9D48hlPLgUOPmcH3kYZ+/PWJudxfZAAP7qlta8MEQzQga46bP9OvAnMBLqszLYMXs/Mro7VN2rFjuHeTygX/KuGMC6ph/ssqD4ZJ4eahwOaMZsYuONRDUAd2RVhz4cCjyheEY+8zWR9f0OlwWXGrDfGyPAeOHU/cWgn1UnMoxKwIatoIwvtkeGxIWidchUkI5kYXHMkAAA"
+  },
+  "logo": {
+    "width": 640,
+    "height": 211
+  }
+}

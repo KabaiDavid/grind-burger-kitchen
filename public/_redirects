@@ -1,0 +1,7 @@
+# Legacy Wix URLs that may exist in the wild
+/home            /                301
+/menu            /food-menu/      301
+/beer            /beer-menu/      301
+/about           /about-us/       301
+/careers         /jobs/           301
+/order           /order-online/   301

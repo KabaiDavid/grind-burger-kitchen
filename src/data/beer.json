@@ -1,0 +1,357 @@
+{
+  "source": "TapHunter",
+  "updated": "October 31",
+  "syncedAt": "2026-11-21",
+  "lists": [
+    {
+      "title": "Draft List",
+      "count": 8,
+      "categories": [
+        {
+          "title": "Pilsners and Pale Lagers",
+          "items": [
+            {
+              "name": "Narragansett Lager",
+              "style": "American Lager",
+              "abv": "5.1%",
+              "ibu": "12",
+              "brewery": "Narragansett Beer",
+              "location": "Pawtucket, RI",
+              "description": "This beer is brewed just right for drinking—crisp and refreshing. It’s got more flavor than other premium lagers."
+            }
+          ]
+        },
+        {
+          "title": "Wheat Beers",
+          "items": [
+            {
+              "name": "3 Floyds Gumball Head",
+              "style": "American Wheat Beer",
+              "abv": "5.6%",
+              "ibu": "20",
+              "brewery": "Three Floyds Brewing Co",
+              "location": "Munster, IN",
+              "description": "A refreshing wheat beer that favors hoppy notes over yeast character."
+            },
+            {
+              "name": "Fat Head’s Goggle Fogger",
+              "style": "Weissbier",
+              "abv": "5.4%",
+              "ibu": "12",
+              "brewery": "Fat Head’s Brewery",
+              "location": "North Olmsted, OH",
+              "description": "Light aromas of wheat, bubblegum, clove and spice. Very refreshing with light hop bitterness"
+            }
+          ]
+        },
+        {
+          "title": "Blonde and Pale Ales",
+          "items": [
+            {
+              "name": "Falls City Lou City Goooal-Den Ale",
+              "style": "American Pale Ale",
+              "abv": "5.0%",
+              "brewery": "Falls City Brewing",
+              "location": "Louisville, KY",
+              "description": "A moderate, refreshing ale with noticeable hop aroma balanced by supporting malt flavors."
+            }
+          ]
+        },
+        {
+          "title": "IPAs",
+          "items": [
+            {
+              "name": "Rhinegeist Truth",
+              "style": "American IPA",
+              "abv": "7.2%",
+              "ibu": "75",
+              "brewery": "Rhinegeist Brewery",
+              "location": "Cincinnati, OH",
+              "description": "Brewed with a nod to the Pacific, hops sizzle with tropical fruit aroma, grapefruit and mango notes and a dry finish."
+            }
+          ]
+        },
+        {
+          "title": "Sour and Fruit Beers",
+          "items": [
+            {
+              "name": "Gravely Lemonade Sour",
+              "style": "Mixed-Fermentation Sour Beer",
+              "abv": "3.0%",
+              "brewery": "Gravely Brewing Co",
+              "location": "Louisville, KY",
+              "description": "A wild-fermented beer containing funky sour flavors and a variety of aromas"
+            }
+          ]
+        },
+        {
+          "title": "Specialty Beers",
+          "items": [
+            {
+              "name": "Gallant Fox Foxtoberfest",
+              "style": "Autumn Seasonal Beer",
+              "abv": "6.0%",
+              "brewery": "Gallant Fox Brewing Company",
+              "location": "Louisville, KY",
+              "description": "A darker colored, malty beer with spices to evoke the fall season"
+            }
+          ]
+        },
+        {
+          "title": "Ciders and Meads",
+          "items": [
+            {
+              "name": "Ace Pineapple",
+              "style": "Fruit Cider",
+              "abv": "5.0%",
+              "ibu": "1",
+              "brewery": "Ace Cider",
+              "location": "Sebastopol, CA",
+              "description": "Ace Pineapple is the world’s first pineapple cider, first produced in 2013! Made with real fruit and no sugar added!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bottles/Cans List",
+      "count": 19,
+      "categories": [
+        {
+          "title": "Pilsners and Pale Lagers",
+          "items": [
+            {
+              "name": "Athletic Cerveza Athletica (Non-alcoholic)",
+              "style": "International Pale Lager",
+              "abv": "0.5%",
+              "brewery": "Athletic Brewing Company",
+              "location": "Stratford, CT",
+              "description": "A highly carbonated, medium-bodied lager that is well-balanced."
+            },
+            {
+              "name": "Bud Light",
+              "style": "American Light Lager",
+              "abv": "4.2%",
+              "ibu": "10",
+              "brewery": "Anheuser-Busch, Inc.",
+              "location": "St. Louis, MO",
+              "description": "Brewed with a malt and hops ratio different from Budweiser for a distinctively crisp taste with fewer calories."
+            },
+            {
+              "name": "Budweiser",
+              "style": "American Lager",
+              "abv": "5.0%",
+              "ibu": "10",
+              "brewery": "Anheuser-Busch, Inc.",
+              "location": "St. Louis, MO",
+              "description": "Budweiser is a medium-bodied, flavorful, and crisp with blended layers of premium American and European hop aromas."
+            },
+            {
+              "name": "Gravely Sprockets",
+              "style": "German Pils",
+              "abv": "5.6%",
+              "ibu": "44",
+              "brewery": "Gravely Brewing Co",
+              "location": "Louisville, KY",
+              "description": "A gold-colored, light-bodied German-style beer with crisp, floral hop aroma."
+            },
+            {
+              "name": "Hamm’s Lager",
+              "style": "American Lager",
+              "abv": "4.7%",
+              "brewery": "Hamm’s Brewing Co.",
+              "location": "United States",
+              "description": "A light-bodied lager designed with drinkability in mind."
+            },
+            {
+              "name": "Michelob Ultra",
+              "style": "American Light Lager",
+              "abv": "4.2%",
+              "ibu": "10",
+              "brewery": "Michelob",
+              "location": "St Louis, MO",
+              "description": "Michelob Ultra appeals to beer drinkers interested in a superior tasting light beer that promotes an active, social lifestyle."
+            },
+            {
+              "name": "Miller High Life",
+              "style": "American Lager",
+              "abv": "4.6%",
+              "ibu": "10",
+              "brewery": "Miller Brewing Company",
+              "location": "Milwaukee, WI",
+              "description": "Yeast our founder brought over from Germany, light Galena hops from the pacific northwest, and a combination of malted barley."
+            },
+            {
+              "name": "Modelo Especial",
+              "style": "International Pale Lager",
+              "abv": "4.4%",
+              "ibu": "18",
+              "brewery": "Grupo Modelo",
+              "location": "Mazatlan, Mexico",
+              "description": "With inspiration from German brewmasters, we created a consistently crisp and well-balanced beer that we fittingly named Modelo Especial."
+            },
+            {
+              "name": "Montucky Cold Snack",
+              "style": "American Lager",
+              "abv": "4.1%",
+              "brewery": "Montucky Cold Snacks",
+              "location": "Bozeman, MT",
+              "description": "A light-bodied lager designed with drinkability in mind."
+            },
+            {
+              "name": "Rhinegeist Ghost Pils (Non-alcoholic)",
+              "style": "Generic Pilsner",
+              "brewery": "Rhinegeist Brewery",
+              "location": "Cincinnati, OH",
+              "description": "A gold-colored, light-bodied beer with crisp, floral hop aroma."
+            }
+          ]
+        },
+        {
+          "title": "Blonde and Pale Ales",
+          "items": [
+            {
+              "name": "3 Floyds Zombie Dust",
+              "style": "American Pale Ale",
+              "abv": "6.5%",
+              "ibu": "60",
+              "brewery": "Three Floyds Brewing Co",
+              "location": "Munster, IN",
+              "description": "Intensely hopped & gushing undead Pale Ale. Will be your only respite after the zombie apocalypse!"
+            },
+            {
+              "name": "Country Boy Cougar Bait",
+              "style": "Blonde Ale",
+              "abv": "4.9%",
+              "ibu": "20",
+              "brewery": "Country Boy Brewing",
+              "location": "Lexington, KY",
+              "description": "A crisp straw-colored ale with a unique malt and citrus hop balance."
+            }
+          ]
+        },
+        {
+          "title": "IPAs",
+          "items": [
+            {
+              "name": "Athletic Free Wave (Non Alcohol)",
+              "style": "Hazy IPA",
+              "abv": "0.5%",
+              "brewery": "Athletic Brewing Company",
+              "location": "Stratford, CT",
+              "description": "Big juicy hop aroma and flavor, low bitterness and malt flavor."
+            },
+            {
+              "name": "Athletic Run Wild IPA (Non-Alcoholic)",
+              "style": "American IPA",
+              "abv": "0.5%",
+              "brewery": "Athletic Brewing Company",
+              "location": "Stratford, CT",
+              "description": "Brewed with a blend of Northwest hops, Citra and Mosaic. Body of premium organic malts from US & Germany. Subtle yet complex malt profile."
+            },
+            {
+              "name": "New Belgium Voodoo Ranger",
+              "style": "American IPA",
+              "abv": "7.0%",
+              "ibu": "50",
+              "brewery": "New Belgium Brewing",
+              "location": "Fort Collins, CO",
+              "description": "Bursting with tropical aroma bitter, moderately strong American pale ale that uses its clean, supporting malt to showcase its hop character."
+            }
+          ]
+        },
+        {
+          "title": "Amber, Red, and Brown Ales",
+          "items": [
+            {
+              "name": "Country Boy Shotgun Wedding",
+              "style": "American Brown Ale",
+              "abv": "5.3%",
+              "ibu": "24",
+              "brewery": "Country Boy Brewing",
+              "location": "Lexington, KY",
+              "description": "A malty beer that uses its hop flavor to complement and enhance its chocolate and caramel characters."
+            }
+          ]
+        },
+        {
+          "title": "Sour and Fruit Beers",
+          "items": [
+            {
+              "name": "Rhinegeist Grapefruit Bubbles",
+              "style": "Fruit Beer",
+              "abv": "6.2%",
+              "brewery": "Rhinegeist Brewery",
+              "location": "Cincinnati, OH",
+              "description": "A beer with additional flavors and aroma from fruit"
+            }
+          ]
+        },
+        {
+          "title": "Ciders and Meads",
+          "items": [
+            {
+              "name": "Ace Perry Pear Cider",
+              "style": "Fruit Cider",
+              "abv": "5.0%",
+              "brewery": "Ace Cider",
+              "location": "Sebastopol, CA",
+              "description": "ACE Perry is the first Perry cider to ever be made in California. This thirst quenching cider is refreshing and light."
+            },
+            {
+              "name": "Original Sin Black Widow",
+              "style": "Fruit Cider",
+              "abv": "6.0%",
+              "brewery": "Original Sin Hard Cider",
+              "location": "New York, NY",
+              "description": "The black widow is fruit-forward, yet tart, with a tantalizing complexity, made with blackberries and freshly pressed New York apples."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cocktails",
+      "count": 8,
+      "categories": [
+        {
+          "title": "House Cocktails",
+          "items": [
+            {
+              "name": "Bourbon Peach Sweet Tea",
+              "ingredients": "Peach Monin, Ice Tea (Sweet) & Green River Kentucky Straight Bourbon Whiskey"
+            },
+            {
+              "name": "Bruised Berry Bourbon",
+              "ingredients": "Green River Kentucky Straight Bourbon Whiskey, Blackberry, Barritts Ginger Beer & blood orange"
+            },
+            {
+              "name": "Dilly-Lemon Gimlet",
+              "ingredients": "Dill infused Gin, lemon juice, simple & over ice"
+            },
+            {
+              "name": "Grind Smoked Bloody Mary",
+              "ingredients": "Tito’s Handmade Vodka, Lime Juice, Bloody Mary Mix & Grind Smoked Ketchup"
+            },
+            {
+              "name": "House Lime Margarita",
+              "ingredients": "Camerena, Cointreau Liqueur, Lime Juice & Sweet and sour"
+            },
+            {
+              "name": "Sparkling Lavender Lemonade",
+              "ingredients": "New Amsterdam Vodka, Lavender Monin, lemon juice, simple & soda water"
+            },
+            {
+              "name": "Uffda Mule",
+              "ingredients": "Barritts Ginger Beer, Lime Juice & Norden Aquavit"
+            },
+            {
+              "name": "Wisconsin Old Fashioned",
+              "ingredients": "Korbel Brandy, Sugar Cube, House Sour, Cherry, Orange Slice, Soda water & Peychaud’s Bitters"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

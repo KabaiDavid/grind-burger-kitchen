@@ -1,0 +1,27 @@
+{
+  "name": "grind-burger-kitchen",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Grind Burger Kitchen — website (Louisville, KY)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "npx serve out",
+    "lint": "tsc --noEmit",
+    "images": "node scripts/build-images.mjs",
+    "sync:beer": "node scripts/sync-beer.mjs"
+  },
+  "dependencies": {
+    "gsap": "^3.15.1",
+    "next": "^16.4.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "sharp": "^0.35.5",
+    "typescript": "^5.9.3"
+  }
+}
